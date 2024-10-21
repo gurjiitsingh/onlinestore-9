@@ -1,0 +1,19 @@
+how to impliment a client button in server component
+
+how to use themeprovider in next js server component
+https://www.google.com/search?q=how+to+use+themeprovider+in+next+js+server+component&rlz=1C1CHBF_enIN1004IN1004&oq=how+to+use+themeprovider+in+next+js&gs_lcrp=EgZjaHJvbWUqCQgBECEYChigATIGCAAQRRg5MgkIARAhGAoYoAEyCQgCECEYChigAdIBCTE2MDI5ajBqN6gCCLACAQ&sourceid=chrome&ie=UTF-8
+
+
+createContext in a Server Component
+https://nextjs.org/docs/messages/context-in-server-component
+
+
+Beadcrumb
+star rating
+
+bg-muted
+user icon: https://www.udemy.com/course/react-tutorial-and-projects-course/learn/lecture/44280944#announcements
+
+dropdown : https://www.udemy.com/course/react-tutorial-and-projects-course/learn/lecture/44245248#announcements
+
+
